@@ -1,0 +1,6 @@
+owner=280569625442385920
+prefix=N
+game=NKA Music | Nplay
+stayinchannel=true
+songinstatus=false
+token=NTYyNjI2MzU5MzQ0NjI3NzIy.XKNl8w.gi7AHsRgmieJGa3OPzdJdhXIjOw
